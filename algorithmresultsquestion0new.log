@@ -1,0 +1,240 @@
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.52	0.72	0.722	0.278
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.50	0.70	0.704	0.296
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.52	0.72	0.722	0.278
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.52	0.72	0.722	0.278
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.51	0.72	0.716	0.284
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.52	0.72	0.722	0.278
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.49	0.70	0.697	0.303
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.52	0.72	0.718	0.282
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.52	0.72	0.718	0.282
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.56	0.75	0.746	0.254
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.51	0.71	0.711	0.289
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.54	0.73	0.732	0.268
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.52	0.72	0.718	0.282
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.52	0.72	0.718	0.282
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.56	0.75	0.746	0.254
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.52	0.72	0.718	0.282
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.50	0.71	0.705	0.295
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.46	0.68	0.679	0.321
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.55	0.74	0.741	0.259
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.58	0.76	0.759	0.241
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.47	0.69	0.688	0.312
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.51	0.71	0.714	0.286
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.51	0.71	0.714	0.286
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.55	0.74	0.741	0.259
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.52	0.72	0.723	0.277
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.47	0.69	0.688	0.312
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.44	0.66	0.663	0.337
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.50	0.71	0.707	0.293
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.51	0.72	0.717	0.283
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.47	0.68	0.685	0.315
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.47	0.68	0.685	0.315
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.58	0.76	0.761	0.239
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.47	0.68	0.685	0.315
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.45	0.67	0.674	0.326
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.53	0.73	0.728	0.272
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.56	0.75	0.750	0.250
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.44	0.67	0.667	0.333
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.63	0.79	0.792	0.208
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.52	0.72	0.722	0.278
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.58	0.76	0.764	0.236
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.56	0.75	0.750	0.250
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.58	0.76	0.764	0.236
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.52	0.72	0.722	0.278
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.41	0.64	0.639	0.361
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.52	0.72	0.722	0.278
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.50	0.71	0.708	0.292
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.60	0.77	0.773	0.227
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.40	0.64	0.636	0.364
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.40	0.64	0.636	0.364
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.75	0.86	0.864	0.136
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.60	0.77	0.773	0.227
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.60	0.77	0.773	0.227
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.53	0.73	0.727	0.273
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.53	0.73	0.727	0.273
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.67	0.82	0.818	0.182
+SVC kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.67	0.82	0.818	0.182
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.62	0.67	0.667	0.333
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.60	0.41	0.407	0.593
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.63	0.69	0.691	0.309
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.60	0.60	0.599	0.401
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.74	0.75	0.753	0.247
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.70	0.68	0.679	0.321
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.57	0.63	0.630	0.370
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.66	0.70	0.704	0.296
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.56	0.43	0.432	0.568
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	10	0.70	0.69	0.691	0.309
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.70	0.63	0.627	0.373
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.63	0.63	0.634	0.366
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.60	0.60	0.599	0.401
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.60	0.52	0.521	0.479
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.65	0.49	0.486	0.514
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.70	0.62	0.620	0.380
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.53	0.44	0.437	0.563
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.64	0.54	0.535	0.465
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.62	0.65	0.655	0.345
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	30	0.61	0.61	0.606	0.394
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.66	0.67	0.670	0.330
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.63	0.57	0.571	0.429
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.72	0.54	0.536	0.464
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.67	0.68	0.679	0.321
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.64	0.62	0.625	0.375
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.61	0.50	0.500	0.500
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.55	0.41	0.411	0.589
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.71	0.64	0.643	0.357
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.64	0.47	0.473	0.527
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	60	0.78	0.51	0.509	0.491
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.62	0.57	0.565	0.435
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.69	0.68	0.685	0.315
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.52	0.37	0.370	0.630
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.60	0.61	0.609	0.391
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.74	0.52	0.522	0.478
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.60	0.58	0.576	0.424
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.54	0.55	0.554	0.446
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.67	0.57	0.565	0.435
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.66	0.63	0.630	0.370
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	80	0.66	0.66	0.663	0.337
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.75	0.57	0.569	0.431
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.66	0.62	0.625	0.375
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.66	0.54	0.542	0.458
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.60	0.62	0.625	0.375
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.85	0.40	0.403	0.597
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.59	0.43	0.431	0.569
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.70	0.57	0.569	0.431
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.65	0.61	0.611	0.389
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.68	0.60	0.597	0.403
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	100	0.50	0.60	0.597	0.403
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.54	0.45	0.455	0.545
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.80	0.59	0.591	0.409
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.77	0.64	0.636	0.364
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.69	0.55	0.545	0.455
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.80	0.68	0.682	0.318
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.47	0.50	0.500	0.500
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.77	0.73	0.727	0.273
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.90	0.68	0.682	0.318
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.80	0.68	0.682	0.318
+NuSVC nu=0.07, kernel=poly, degree=3, probability=True	CustomVectorizer	150	0.82	0.77	0.773	0.227
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.72	0.73	0.735	0.265
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.51	0.72	0.716	0.284
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.50	0.70	0.704	0.296
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.52	0.72	0.722	0.278
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.50	0.71	0.710	0.290
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	10	0.52	0.69	0.691	0.309
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.49	0.70	0.697	0.303
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.69	0.73	0.725	0.275
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.70	0.73	0.732	0.268
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.52	0.72	0.718	0.282
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.81	0.73	0.732	0.268
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.52	0.72	0.718	0.282
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.72	0.75	0.746	0.254
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.80	0.72	0.718	0.282
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.49	0.70	0.697	0.303
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	30	0.53	0.73	0.725	0.275
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.83	0.79	0.786	0.214
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.81	0.73	0.732	0.268
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.68	0.71	0.714	0.286
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.58	0.68	0.679	0.321
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.47	0.69	0.688	0.312
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.58	0.68	0.679	0.321
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.79	0.70	0.696	0.304
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.62	0.71	0.714	0.286
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.80	0.73	0.732	0.268
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	60	0.80	0.72	0.723	0.277
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.67	0.67	0.674	0.326
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.78	0.76	0.761	0.239
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.68	0.68	0.685	0.315
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.64	0.70	0.696	0.304
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.72	0.76	0.761	0.239
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.68	0.74	0.739	0.261
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.80	0.73	0.728	0.272
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.69	0.72	0.717	0.283
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.66	0.72	0.717	0.283
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	80	0.80	0.71	0.707	0.293
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.70	0.71	0.708	0.292
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.41	0.64	0.639	0.361
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.70	0.76	0.764	0.236
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.67	0.67	0.667	0.333
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.71	0.74	0.736	0.264
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.74	0.74	0.736	0.264
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.63	0.68	0.681	0.319
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.80	0.81	0.806	0.194
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.44	0.64	0.639	0.361
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	100	0.52	0.71	0.708	0.292
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.80	0.82	0.818	0.182
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.70	0.68	0.682	0.318
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.79	0.82	0.818	0.182
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.79	0.82	0.818	0.182
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.83	0.77	0.773	0.227
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.60	0.64	0.636	0.364
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.73	0.73	0.727	0.273
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.89	0.86	0.864	0.136
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.79	0.68	0.682	0.318
+SGDClassifier loss=hinge, penalty=l2, alpha=1e-3, random_state=42, max_iter=5, tol=None	CustomVectorizer	150	0.81	0.73	0.727	0.273
+BernoulliNB	CustomVectorizer	10	0.71	0.74	0.741	0.259
+BernoulliNB	CustomVectorizer	10	0.74	0.52	0.525	0.475
+BernoulliNB	CustomVectorizer	10	0.50	0.71	0.710	0.290
+BernoulliNB	CustomVectorizer	10	0.79	0.53	0.531	0.469
+BernoulliNB	CustomVectorizer	10	0.67	0.67	0.667	0.333
+BernoulliNB	CustomVectorizer	10	0.78	0.42	0.420	0.580
+BernoulliNB	CustomVectorizer	10	0.65	0.71	0.710	0.290
+BernoulliNB	CustomVectorizer	10	0.66	0.72	0.716	0.284
+BernoulliNB	CustomVectorizer	10	0.76	0.72	0.716	0.284
+BernoulliNB	CustomVectorizer	10	0.68	0.69	0.691	0.309
+BernoulliNB	CustomVectorizer	30	0.74	0.75	0.754	0.246
+BernoulliNB	CustomVectorizer	30	0.49	0.70	0.697	0.303
+BernoulliNB	CustomVectorizer	30	0.49	0.70	0.697	0.303
+BernoulliNB	CustomVectorizer	30	0.50	0.70	0.704	0.296
+BernoulliNB	CustomVectorizer	30	0.52	0.72	0.718	0.282
+BernoulliNB	CustomVectorizer	30	0.48	0.69	0.690	0.310
+BernoulliNB	CustomVectorizer	30	0.77	0.63	0.634	0.366
+BernoulliNB	CustomVectorizer	30	0.75	0.65	0.655	0.345
+BernoulliNB	CustomVectorizer	30	0.51	0.71	0.711	0.289
+BernoulliNB	CustomVectorizer	30	0.52	0.72	0.718	0.282
+BernoulliNB	CustomVectorizer	60	0.47	0.69	0.688	0.312
+BernoulliNB	CustomVectorizer	60	0.66	0.62	0.625	0.375
+BernoulliNB	CustomVectorizer	60	0.65	0.71	0.705	0.295
+BernoulliNB	CustomVectorizer	60	0.65	0.67	0.670	0.330
+BernoulliNB	CustomVectorizer	60	0.66	0.71	0.714	0.286
+BernoulliNB	CustomVectorizer	60	0.84	0.58	0.580	0.420
+BernoulliNB	CustomVectorizer	60	0.72	0.74	0.741	0.259
+BernoulliNB	CustomVectorizer	60	0.70	0.71	0.705	0.295
+BernoulliNB	CustomVectorizer	60	0.49	0.70	0.696	0.304
+BernoulliNB	CustomVectorizer	60	0.81	0.72	0.723	0.277
+BernoulliNB	CustomVectorizer	80	0.70	0.73	0.728	0.272
+BernoulliNB	CustomVectorizer	80	0.74	0.76	0.761	0.239
+BernoulliNB	CustomVectorizer	80	0.79	0.70	0.696	0.304
+BernoulliNB	CustomVectorizer	80	0.63	0.68	0.685	0.315
+BernoulliNB	CustomVectorizer	80	0.68	0.70	0.696	0.304
+BernoulliNB	CustomVectorizer	80	0.78	0.78	0.783	0.217
+BernoulliNB	CustomVectorizer	80	0.48	0.70	0.696	0.304
+BernoulliNB	CustomVectorizer	80	0.79	0.68	0.685	0.315
+BernoulliNB	CustomVectorizer	80	0.60	0.68	0.685	0.315
+BernoulliNB	CustomVectorizer	80	0.79	0.71	0.707	0.293
+BernoulliNB	CustomVectorizer	100	0.78	0.69	0.694	0.306
+BernoulliNB	CustomVectorizer	100	0.75	0.74	0.736	0.264
+BernoulliNB	CustomVectorizer	100	0.80	0.72	0.722	0.278
+BernoulliNB	CustomVectorizer	100	0.41	0.64	0.639	0.361
+BernoulliNB	CustomVectorizer	100	0.58	0.62	0.625	0.375
+BernoulliNB	CustomVectorizer	100	0.78	0.67	0.667	0.333
+BernoulliNB	CustomVectorizer	100	0.46	0.68	0.681	0.319
+BernoulliNB	CustomVectorizer	100	0.78	0.69	0.694	0.306
+BernoulliNB	CustomVectorizer	100	0.79	0.79	0.792	0.208
+BernoulliNB	CustomVectorizer	100	0.65	0.69	0.694	0.306
+BernoulliNB	CustomVectorizer	150	0.80	0.82	0.818	0.182
+BernoulliNB	CustomVectorizer	150	0.89	0.86	0.864	0.136
+BernoulliNB	CustomVectorizer	150	0.80	0.68	0.682	0.318
+BernoulliNB	CustomVectorizer	150	0.68	0.68	0.682	0.318
+BernoulliNB	CustomVectorizer	150	0.66	0.59	0.591	0.409
+BernoulliNB	CustomVectorizer	150	0.70	0.64	0.636	0.364
+BernoulliNB	CustomVectorizer	150	0.73	0.73	0.727	0.273
+BernoulliNB	CustomVectorizer	150	0.79	0.68	0.682	0.318
+BernoulliNB	CustomVectorizer	150	0.86	0.82	0.818	0.182
+BernoulliNB	CustomVectorizer	150	0.81	0.82	0.818	0.182
